@@ -1,0 +1,1 @@
+# cloud-translate-banner-js
